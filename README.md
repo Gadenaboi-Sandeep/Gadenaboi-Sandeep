@@ -1,4 +1,4 @@
-Hello! I’m Sandeep Gadenaboi, an enthusiastic engineering student specializing in Information Technology with a current CGPA of 9.24. 
+Hello! I’m Sandeep Gadenaboi, an enthusiastic engineering student specializing in Information Technology with a current CGPA of 9.11. 
 I am passionate about technology and continuously strive to enhance my skills.
 
 To strengthen my technical expertise, I have completed a Web Development course on Coursera and earned an Elite Certification from NPTEL for the Programming in Java course. 
